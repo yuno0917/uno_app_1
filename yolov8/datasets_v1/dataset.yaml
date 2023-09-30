@@ -1,0 +1,5 @@
+train: C:\Users\kouki\yolov8\datasets\train
+val: C:\Users\kouki\yolov8\datasets\val
+test: C:\Users\kouki\yolov8\datasets\test
+nc: 1
+names: ['raw']
